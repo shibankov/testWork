@@ -718,4 +718,13 @@ button{
       font-size: 24px;
     }
   }
+  .range-input__description{
+    font-size: 12px;
+  }
+  .pay__list > li:not(:last-child){
+    margin-right: 6px;
+  }
+  .contact__list > li:not(:last-child){
+    margin-right: 6px;
+  }
 }
