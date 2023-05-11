@@ -2,7 +2,7 @@
 import './scss/main.scss';
 
 // JS
-// import './js/main.js';
+import './js/main.js';
 
 //React
 // import React from 'react';

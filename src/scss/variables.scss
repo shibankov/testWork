@@ -1,3 +1,17 @@
-
-
-/*# sourceMappingURL=variables.scss.map */
+//Base
+$themeColor: #3E9CDC;
+$white: #ffffff;
+$dark: #000000;
+$baseTransition: all 0.4s ease-in-out;
+//Btn
+$btnColor: #2A2B30;
+$btnHoverColor: $white;
+$btnBgColor: $white;
+$btnBgHoverColor:$themeColor;
+//link-color
+$linkColor: $white;
+$linkHoverColor: $themeColor;
+//Section
+$headerBgColor: rgba(16,16,27,.9);
+$footerBgColor: #3D4050;
+$orderSectionBgColor: #272733;
